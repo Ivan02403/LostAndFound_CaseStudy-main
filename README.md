@@ -1,2 +1,2 @@
 # LostAndFound_CaseStudy-main
-nag add ako post ui 
+nag add ako add post ui 
